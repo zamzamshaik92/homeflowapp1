@@ -1,0 +1,6 @@
+{
+  "name": "HomeFlow",
+  "description": "Family finance management app for expenses, monthly budgets, savings goals, bill reminders, and shared household wealth tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
